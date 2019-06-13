@@ -1,10 +1,10 @@
 export default {
   short: {
     now: 'just now',
-    sec:'s',
-    min: 'm',
-    hour: 'h',
-    day: 'd',
+    sec:'s ago',
+    min: 'm ago',
+    hour: 'h ago',
+    day: 'd ago',
   },
   long: {
     now: 'just now',

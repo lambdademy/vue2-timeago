@@ -5,11 +5,11 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"er76":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e={short:{now:"刚刚",sec:" 秒",min:" 分",hour:" 小时",day:" 天"},long:{now:"刚刚",sec:" 秒钟前",min:" 分钟前",hour:" 小时前",day:" 天前"}};exports.default=e;
 },{}],"4XV2":[function(require,module,exports) {
-"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var o={short:{now:"just now",sec:"s",min:"m",hour:"h",day:"d"},long:{now:"just now",sec:" seconds ago",min:" minutes ago",hour:" hours ago",day:" days ago"}};exports.default=o;
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var o={short:{now:"just now",sec:"s ago",min:"m ago",hour:"h ago",day:"d ago"},long:{now:"just now",sec:" seconds ago",min:" minutes ago",hour:" hours ago",day:" days ago"}};exports.default=o;
 },{}],"hCoc":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e={short:{now:"すこし前",sec:" 秒",min:" 分",hour:" 時間",day:" 日"},long:{now:"すこし前",sec:" 秒前",min:" 分前",hour:" 時間前",day:" 日前"}};exports.default=e;
 },{}],"IMHC":[function(require,module,exports) {
-"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var t={short:{now:"mới đây",sec:"s trước",min:"m trước",hour:"h trước",day:" ngày trước"},long:{now:"mới đây",sec:" giây trước",min:" phút trước",hour:" giờ trước",day:" ngày trước"}};exports.default=t;
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var t={short:{now:"mới đây",sec:" giây",min:" phút",hour:" giờ",day:" ngày"},long:{now:"mới đây",sec:" giây trước",min:" phút trước",hour:" giờ trước",day:" ngày trước"}};exports.default=t;
 },{}],"t7nU":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e=a(require("./zh_TW")),r=a(require("./zh_CN")),u=a(require("./en")),t=a(require("./jp")),d=a(require("./vi"));function a(e){return e&&e.__esModule?e:{default:e}}var i={zh_TW:e.default,zh_CN:r.default,en:u.default,jp:t.default,vi:d.default};exports.default=i;
 },{"./zh_TW":"+8og","./zh_CN":"er76","./en":"4XV2","./jp":"hCoc","./vi":"IMHC"}],"xyyx":[function(require,module,exports) {
